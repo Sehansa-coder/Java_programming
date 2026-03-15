@@ -31,6 +31,7 @@ public class find_total_cost {
         // find total price
         float totalCost=quantity*unit_price;
 
+        // print the output
         System.out.print("Total cost will be "+totalCost+" rupees.");
 
         s.close();
