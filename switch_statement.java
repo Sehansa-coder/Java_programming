@@ -1,4 +1,4 @@
-// Higher diploma in Information Technology - Year one Java programming
+// Higher diploma in Information Technology - Year one Java programming.
 // problem:
 // Write a program that will read a Student’s mark (0-100) as a keyboard input and reports 
 // what grade is obtained. Use Switch statement.
