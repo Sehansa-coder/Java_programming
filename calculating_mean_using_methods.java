@@ -42,3 +42,6 @@ public static void main(String[] args){
 // enter third value:
 // 2
 // Mean value: 2.0
+
+// Enter the first value (type 'Exit' to quit): 
+
