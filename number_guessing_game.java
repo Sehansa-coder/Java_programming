@@ -36,3 +36,14 @@ public class number_guessing_game {
 
     
 }
+
+// sample output:
+
+// welcome to Number guessing game!
+// Guess a number between 1 and 50
+// Enter your guess: 25
+// Too low! try again.
+// Enter your guess: 40
+// Too high! try again.
+// Enter your guess: 36
+// Congradulatuons! you guessed it in 4 attempts.
