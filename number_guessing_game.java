@@ -1,5 +1,16 @@
+// problem:
+//Write a Java program that implements a simple number guessing game.
+
+// The program randomly selects a number between 1 and 50.
+// The user has to guess the number.
+// After each guess, the program tells the user whether the guess is too high, too low, or correct.
+// When the user guesses correctly, print the number of attempts taken
+
+
+// get scanner object
 import java.util.Scanner;
 import java.util.Random;
+
 public class number_guessing_game {
 
     public static void main(String[] args){
