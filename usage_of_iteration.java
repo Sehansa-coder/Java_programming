@@ -45,3 +45,23 @@ public class usage_of_iteration {
         sc.close();
     }
 }
+
+// Sample output:
+
+//Enter employee name:Daniel  
+// Enter employee number:22
+// Enter job title: Software engineer
+// --Employee details---
+// Name: Daniel
+// Employee number: 22
+// Job title: Software engineer
+// Do you want to enter another employee? (yes/no): yes
+// Enter employee name:Reven
+// Enter employee number:10
+// Enter job title: Graphic Designer
+// --Employee details---
+// Name: Reven
+// Employee number: 10
+// Job title: Graphic Designer
+// Do you want to enter another employee? (yes/no): no
+// Program terminated
